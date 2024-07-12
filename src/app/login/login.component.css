@@ -1,0 +1,52 @@
+.login-container{
+    width: 100%;
+    height: 100vh;
+    background:linear-gradient(135deg,#a5c9c7 0%,#3ae1dc 100%);
+}
+.img{
+    position: absolute;
+    top: 100px;
+    left: 0px;
+    width: 250bx;
+    height: 1000px;
+}
+.description{
+    font-size: 30px;
+    position: absolute;
+    font-family: 'Aladin',cursive;
+    top: 150px;
+    left: 750px;
+    width: 618bx;
+    
+}
+.login-form{
+    position: absolute;
+    width: 500px;
+    height: 300px;
+    padding: 20px;
+    background:linear-gradient(135deg,#a5c9c7 0%,#3ae1dc 100%);
+    border-radius: 10px;
+    top: 550px;
+    left: 1100px;
+
+
+}
+.pos{
+    position: absolute;
+    left: 200px;
+}
+.pos-btn{
+    position: absolute;
+    left: 225px;
+    background-color: turquoise;
+    border-radius: 10px;
+}
+.titlee{
+    font-size: 50px;
+    position: absolute;
+    font-family: 'Aladin',cursive;
+    top: 50px;
+    left: 1000px;
+    width: 618bx;
+    font-weight: bold;
+}

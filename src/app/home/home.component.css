@@ -1,0 +1,26 @@
+.showall{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.cover{
+    padding: 50px;
+}
+.name{
+    padding: 10px;
+    font-size: 35;
+    font-weight: bold;
+          cursor: pointer;
+}
+.rating{
+    padding: 10px;
+    left: 40px;
+    font-size: 20;
+    
+}
+.cover{
+    height: 350px;
+}
+.detail{
+    width: 180px;
+}

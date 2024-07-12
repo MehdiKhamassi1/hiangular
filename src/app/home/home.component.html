@@ -1,0 +1,18 @@
+<app-header></app-header>
+<div class="showall">
+    <div class="movie" *ngFor=" let m of movies">
+        
+        <div class="cover">
+        <img [src]="m.cover" alt="">
+        </div>
+        <div class="detail">
+        <div class="name">
+            {{m.name}}
+        </div>
+        <div class="rating">
+            {{m.rating}}
+        </div>
+    
+    </div>
+    </div>
+</div>
